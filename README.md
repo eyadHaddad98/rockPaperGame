@@ -127,6 +127,9 @@ You can also run the project with the **Live Server** extension in Visual Studio
 - Add light and dark themes
 - Publish the game using GitHub Pages
 
+---
 <div align="center">
+
+If you enjoyed this project, consider giving it a ⭐
 
 </div>
